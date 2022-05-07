@@ -52,8 +52,8 @@ a {
 a:hover {
   color: black;
   background-color: white;
+  animation-timing-function: cubic-bezier();
 }
-
 
 .copyright-text{
   text-align: center;
